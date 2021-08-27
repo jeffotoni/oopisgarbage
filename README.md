@@ -7,3 +7,6 @@ Claro que iremos brincar usando **Go**...
 **Vídeo:**
 [Object-Oriented Programming is Garbage: 3800 SLOC](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 
+Nosso ilustre Torvalds também não curte muito não 😂
+
+[Linus Torvalds: C++ é horrível](http://harmful.cat-v.org/software/c++/linus)
