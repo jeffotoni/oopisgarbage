@@ -24,7 +24,7 @@ C++ e Java para OO não temos dúvidas que são referências para grande parte d
 
 #### Agora olha que legal este HelloWorld em Java
 
-(HelloWorld.java)[https://gist.github.com/lolzballs/2152bc0f31ee0286b722]
+[HelloWorld.java](https://gist.github.com/lolzballs/2152bc0f31ee0286b722)
 
 
 #### Jà ouviram falar do game FizzBuzz?
@@ -37,4 +37,4 @@ Para os números de 1 a 100,
     se o número for divisível por 5, imprima um zumbido;
     se o número for divisível por 3 e 5 (15) imprima o FizzBuzz;
     caso contrário, imprima o número.
-(FizzBuzz)[https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition]    
+[FizzBuzz](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
